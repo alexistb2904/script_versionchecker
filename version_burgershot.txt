@@ -1,2 +1,6 @@
-1.0.9
-Fixes locales for float number
+1.0.10
+Add docs on https://alexstore.gitbook.io/alexstore/
+Fix ESX events
+Add auto job creation for ESX
+Some Other Fixes
+Add an other Style for the interface
