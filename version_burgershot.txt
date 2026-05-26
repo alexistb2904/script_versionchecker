@@ -1,6 +1,5 @@
-1.0.10
-Add docs on https://alexstore.gitbook.io/alexstore/
-Fix ESX events
-Add auto job creation for ESX
-Some Other Fixes
-Add an other Style for the interface
+1.1.5
+Docs on https://alexstore.gitbook.io/alexstore/
+Add a way to configure NPC Payout
+From 1.1.0:
+New interface
